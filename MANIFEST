@@ -2,5 +2,5 @@ Changes
 Makefile.PL
 MANIFEST
 README
-t/Padre-Plugin-EmacsMode.t
-lib/Padre/Plugin/EmacsMode.pm
+t/Padre-Plugin-Emacs.t
+lib/Padre/Plugin/Emacs.pm
